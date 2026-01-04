@@ -1,7 +1,4 @@
-## Dataset Analysis Overview
-## Dataset Information
-
-Dataset Name: twitter_training.csv
+## Dataset  Name: twitter_training.
 
 Number of Rows: 74,682
 
