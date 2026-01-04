@@ -13,9 +13,57 @@ Tweet ID	Unique identifier for each tweet
 Entity	Brand, product, or topic mentioned
 Sentiment	Labeled sentiment category: Positive, Negative, Neutral, Irrelevant
 Tweet Text	Raw textual content of the tweet
-Objective
+
+## Objective
 
 The objective of this dataset analysis is to explore sentiment patterns in social media data, specifically Twitter, to better understand public opinion and attitudes toward various brands, products, or topics.
+
+
+
+Objective
+
+Analyze sentiment patterns in Twitter data to understand public opinion and attitudes toward specific brands, products, or topics.
+
+
+
+Methodology:
+
+## The sentiment analysis project follows these steps:
+
+1) Data Collection & Loading
+
+2) oad the twitter_training.csv dataset into Python using pandas.
+
+3) Data Preprocessing
+
+4) Remove duplicates and handle missing values.
+
+5) Clean text data: remove URLs, mentions, hashtags, special characters, and emojis.
+
+6) Convert text to lowercase and perform tokenization.
+
+
+Exploratory Data Analysis (EDA)
+
+Analyze the distribution of sentiment classes.
+
+
+
+Highlight trends, patterns, and insights in dashboards or graphs.
+
+## Tools & Technologies
+
+Programming Language: Python
+
+Data Handling & Analysis: pandas, numpy
+
+Text Preprocessing: re, nltk, spacy
+
+Sentiment Analysis Libraries: TextBlob, VADER, transformers (Hugging Face)
+
+Machine Learning: scikit-learn, TensorFlow / PyTorch
+
+
 
 ## Goals
 
